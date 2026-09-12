@@ -1,0 +1,8 @@
+Aetherwilds V4.6.0-depth-hardened
+
+Deploy this directory to the existing Vercel project:
+  npx vercel@latest link --yes --project aetherwilds-v43
+  npx vercel@latest --prod --yes
+
+Production alias:
+  https://aetherwilds-v43.vercel.app
